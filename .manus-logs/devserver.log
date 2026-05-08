@@ -1,0 +1,124 @@
+[2026-05-07T06:49:02.881Z] Starting dev server with command: pnpm run dev
+[2026-05-07T06:49:03.807Z] 
+[2026-05-07T06:49:03.807Z] > smart-study-planner-phase2@1.0.0 dev /home/ubuntu/smart-study-planner-phase2
+[2026-05-07T06:49:03.808Z] > vite --host
+[2026-05-07T06:49:03.808Z] 
+[2026-05-07T06:49:04.457Z] 
+[2026-05-07T06:49:04.458Z] VITE v7.1.9  ready in 603 ms
+[2026-05-07T06:49:04.459Z] 
+[2026-05-07T06:49:04.460Z] ➜  Local:   http://localhost:3000/
+[2026-05-07T06:49:04.461Z] ➜  Network: http://169.254.0.21:3000/
+[2026-05-07T06:54:56.835Z] 2:54:56 AM [vite] (client) page reload index.html
+[2026-05-07T06:55:43.609Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-05-07T06:56:49.575Z] 2:56:49 AM [vite] (client) hmr update /src/App.tsx, /src/index.css
+[2026-05-07T06:56:56.522Z] 2:56:56 AM [vite] (client) ✨ new dependencies optimized: @radix-ui/react-dialog
+[2026-05-07T06:56:56.522Z] 2:56:56 AM [vite] (client) ✨ optimized dependencies changed. reloading
+[2026-05-07T07:42:50.646Z] 3:42:50 AM [vite] (client) hmr update /src/index.css, /src/pages/Squad.tsx
+[2026-05-07T07:42:52.919Z] 3:42:52 AM [vite] (client) ✨ new dependencies optimized: @radix-ui/react-tabs
+[2026-05-07T07:42:52.920Z] 3:42:52 AM [vite] (client) ✨ optimized dependencies changed. reloading
+[2026-05-08T14:47:17.183Z] Dev server process group stopped
+[2026-05-08T14:47:20.213Z] Starting dev server with command: pnpm run dev
+[2026-05-08T14:47:21.013Z] 
+[2026-05-08T14:47:21.013Z] > smart-study-planner-phase2@1.0.0 dev /home/ubuntu/smart-study-planner-phase2
+[2026-05-08T14:47:21.013Z] > vite --host
+[2026-05-08T14:47:21.014Z] 
+[2026-05-08T14:47:21.579Z] 
+[2026-05-08T14:47:21.580Z] VITE v7.1.9  ready in 520 ms
+[2026-05-08T14:47:21.580Z] 
+[2026-05-08T14:47:21.580Z] ➜  Local:   http://localhost:3000/
+[2026-05-08T14:47:21.581Z] ➜  Network: http://169.254.0.21:3000/
+[2026-05-08T14:47:22.635Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-05-08T14:59:23.946Z] 10:59:23 AM [vite] (client) hmr update /src/pages/Squad.tsx, /src/index.css
+[2026-05-08T14:59:36.804Z] 10:59:36 AM [vite] (client) hmr update /src/App.tsx, /src/index.css
+[2026-05-08T14:59:36.831Z] 10:59:36 AM [vite] Internal server error: /home/ubuntu/smart-study-planner-phase2/client/src/App.tsx: Unterminated string constant. (11:56)
+[2026-05-08T14:59:36.832Z] 
+[2026-05-08T14:59:36.832Z] 9 | import Squad from "./pages/Squad";
+[2026-05-08T14:59:36.832Z] 10 | import Trophies from "./pages/Trophies";
+[2026-05-08T14:59:36.833Z] > 11 | import Contact from "./pages/Contact";ponents/Navigation";
+[2026-05-08T14:59:36.833Z] |                                                         ^
+[2026-05-08T14:59:36.833Z] 12 | import Footer from "./components/Footer";
+[2026-05-08T14:59:36.834Z] 13 | import Home from "./pages/Home";
+[2026-05-08T14:59:36.834Z] 14 | import About from "./pages/About";
+[2026-05-08T14:59:36.834Z] Plugin: vite:react-babel
+[2026-05-08T14:59:36.835Z] File: /home/ubuntu/smart-study-planner-phase2/client/src/App.tsx:11:56
+[2026-05-08T14:59:36.835Z] 9  |  import Squad from "./pages/Squad";
+[2026-05-08T14:59:36.836Z] 10 |  import Trophies from "./pages/Trophies";
+[2026-05-08T14:59:36.836Z] 11 |  import Contact from "./pages/Contact";ponents/Navigation";
+[2026-05-08T14:59:36.837Z] |                                                          ^
+[2026-05-08T14:59:36.837Z] 12 |  import Footer from "./components/Footer";
+[2026-05-08T14:59:36.837Z] 13 |  import Home from "./pages/Home";
+[2026-05-08T14:59:36.838Z] at constructor (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:367:19)
+[2026-05-08T14:59:36.838Z] at TypeScriptParserMixin.raise (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:6630:19)
+[2026-05-08T14:59:36.839Z] at Object.unterminated (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:5695:20)
+[2026-05-08T14:59:36.839Z] at readStringContents (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:5437:16)
+[2026-05-08T14:59:36.839Z] at TypeScriptParserMixin.readString (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:6529:9)
+[2026-05-08T14:59:36.840Z] at TypeScriptParserMixin.getTokenFromCode (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:6289:14)
+[2026-05-08T14:59:36.840Z] at TypeScriptParserMixin.getTokenFromCode (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:4830:11)
+[2026-05-08T14:59:36.840Z] at TypeScriptParserMixin.getTokenFromCode (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:10009:11)
+[2026-05-08T14:59:36.841Z] at TypeScriptParserMixin.nextToken (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:5813:10)
+[2026-05-08T14:59:36.841Z] at TypeScriptParserMixin.next (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:5723:10)
+[2026-05-08T14:59:36.841Z] at TypeScriptParserMixin.parseIdentifierName (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:12223:10)
+[2026-05-08T14:59:36.842Z] at TypeScriptParserMixin.parseIdentifier (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:12191:23)
+[2026-05-08T14:59:36.842Z] at TypeScriptParserMixin.parseExprAtom (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:11425:27)
+[2026-05-08T14:59:36.842Z] at TypeScriptParserMixin.parseExprAtom (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:4797:20)
+[2026-05-08T14:59:36.843Z] at TypeScriptParserMixin.parseExprSubscripts (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:11085:23)
+[2026-05-08T14:59:36.843Z] at TypeScriptParserMixin.parseUpdate (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:11070:21)
+[2026-05-08T14:59:36.843Z] at TypeScriptParserMixin.parseMaybeUnary (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:11050:23)
+[2026-05-08T14:59:36.844Z] at TypeScriptParserMixin.parseMaybeUnary (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:9857:18)
+[2026-05-08T14:59:36.844Z] at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:10903:61)
+[2026-05-08T14:59:36.845Z] at TypeScriptParserMixin.parseExprOpBaseRightExpr (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:10990:34)
+[2026-05-08T14:59:36.845Z] at TypeScriptParserMixin.parseExprOpRightExpr (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:10985:21)
+[2026-05-08T14:59:36.845Z] at TypeScriptParserMixin.parseExprOp (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:10951:27)
+[2026-05-08T14:59:36.846Z] at TypeScriptParserMixin.parseExprOp (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:9394:18)
+[2026-05-08T14:59:36.846Z] at TypeScriptParserMixin.parseExprOps (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:10912:17)
+[2026-05-08T14:59:36.846Z] at TypeScriptParserMixin.parseMaybeConditional (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:10885:23)
+[2026-05-08T14:59:36.847Z] at TypeScriptParserMixin.parseMaybeAssign (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:10835:21)
+[2026-05-08T14:59:36.847Z] at TypeScriptParserMixin.parseMaybeAssign (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:9806:20)
+[2026-05-08T14:59:36.847Z] at TypeScriptParserMixin.parseExpressionBase (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:10788:23)
+[2026-05-08T14:59:36.848Z] at /home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:10784:39
+[2026-05-08T14:59:36.848Z] at TypeScriptParserMixin.allowInAnd (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:12431:16)
+[2026-05-08T14:59:36.848Z] at TypeScriptParserMixin.parseExpression (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:10784:17)
+[2026-05-08T14:59:36.849Z] at TypeScriptParserMixin.parseStatementContent (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:12904:23)
+[2026-05-08T14:59:36.849Z] at TypeScriptParserMixin.parseStatementContent (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:9532:18)
+[2026-05-08T14:59:36.849Z] at TypeScriptParserMixin.parseStatementLike (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:12776:17)
+[2026-05-08T14:59:36.850Z] at TypeScriptParserMixin.parseModuleItem (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:12753:17)
+[2026-05-08T14:59:36.850Z] at TypeScriptParserMixin.parseBlockOrModuleBlockBody (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:13325:36)
+[2026-05-08T14:59:36.850Z] at TypeScriptParserMixin.parseBlockBody (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:13318:10)
+[2026-05-08T14:59:36.851Z] at TypeScriptParserMixin.parseProgram (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:12634:10)
+[2026-05-08T14:59:36.851Z] at TypeScriptParserMixin.parseTopLevel (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:12624:25)
+[2026-05-08T14:59:36.851Z] at TypeScriptParserMixin.parse (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:14501:10)
+[2026-05-08T14:59:36.851Z] at TypeScriptParserMixin.parse (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:10149:18)
+[2026-05-08T14:59:36.852Z] at parse (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+parser@7.28.4/node_modules/@babel/parser/lib/index.js:14535:38)
+[2026-05-08T14:59:36.853Z] at parser (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+core@7.28.4/node_modules/@babel/core/lib/parser/index.js:41:34)
+[2026-05-08T14:59:36.854Z] at parser.next (<anonymous>)
+[2026-05-08T14:59:36.854Z] at normalizeFile (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+core@7.28.4/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+[2026-05-08T14:59:36.854Z] at normalizeFile.next (<anonymous>)
+[2026-05-08T14:59:36.855Z] at run (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+core@7.28.4/node_modules/@babel/core/lib/transformation/index.js:22:50)
+[2026-05-08T14:59:36.855Z] at run.next (<anonymous>)
+[2026-05-08T14:59:36.856Z] at transform (/home/ubuntu/smart-study-planner-phase2/node_modules/.pnpm/@babel+core@7.28.4/node_modules/@babel/core/lib/transform.js:22:33)
+[2026-05-08T14:59:36.856Z] at transform.next (<anonymous>)
+[2026-05-08T14:59:55.806Z] 10:59:55 AM [vite] (client) hmr update /src/App.tsx, /src/index.css
+[2026-05-08T15:00:16.911Z] 11:00:16 AM [vite] (client) hmr update /src/components/Navigation.tsx, /src/index.css
+[2026-05-08T15:08:52.307Z] 11:08:52 AM [vite] (client) hmr update /src/pages/Squad.tsx, /src/index.css
+[2026-05-08T15:09:08.593Z] 11:09:08 AM [vite] (client) hmr update /src/index.css, /src/pages/Trophies.tsx
+[2026-05-08T15:27:22.231Z] 11:27:22 AM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-05-08T15:37:19.741Z] 11:37:19 AM [vite] (client) hmr update /src/pages/Squad.tsx, /src/index.css
+[2026-05-08T16:28:44.610Z] 12:28:44 PM [vite] (client) hmr update /src/index.css
+[2026-05-08T16:34:36.711Z] 12:34:36 PM [vite] changed tsconfig file detected: /home/ubuntu/smart-study-planner-phase2/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2026-05-08T16:34:36.715Z] 12:34:36 PM [vite] vite.config.ts changed, restarting server...
+[2026-05-08T16:34:36.717Z] 12:34:36 PM [vite] (client) page reload index.html
+[2026-05-08T16:34:36.717Z] 12:34:36 PM [vite] (client) page reload public/.gitkeep
+[2026-05-08T16:34:36.718Z] 12:34:36 PM [vite] (client) page reload public/__manus__/debug-collector.js
+[2026-05-08T16:34:36.718Z] 12:34:36 PM [vite] (client) page reload src/App.tsx
+[2026-05-08T16:34:36.718Z] 12:34:36 PM [vite] (client) page reload src/components/ErrorBoundary.tsx
+[2026-05-08T16:34:36.719Z] 12:34:36 PM [vite] (client) page reload src/components/Footer.tsx
+[2026-05-08T16:34:36.719Z] 12:34:36 PM [vite] (client) page reload src/components/Map.tsx
+[2026-05-08T16:34:36.720Z] 12:34:36 PM [vite] (client) page reload src/components/Navigation.tsx
+[2026-05-08T16:34:36.720Z] 12:34:36 PM [vite] (client) page reload src/components/ui/accordion.tsx
+[2026-05-08T16:34:36.721Z] 12:34:36 PM [vite] (client) page reload src/components/ui/alert-dialog.tsx
+[2026-05-08T16:34:36.722Z] 12:34:36 PM [vite] (client) page reload src/components/ui/alert.tsx
+[2026-05-08T16:34:36.723Z] 12:34:36 PM [vite] (client) page reload src/components/ui/aspect-ratio.tsx
+[2026-05-08T16:34:36.724Z] 12:34:36 PM [vite] (client) page reload src/components/ui/avatar.tsx
+[2026-05-08T16:34:36.725Z] 12:34:36 PM [vite] (client) page reload src/components/ui/badge.tsx
+[2026-05-08T16:34:36.727Z] 12:34:36 PM [vite] (client) page reload src/components/ui/breadcrumb.tsx
+[2026-05-08T16:34:36.728Z] 12:34:36 PM [vite] (client) page reload src/components/ui/button-group.tsx
