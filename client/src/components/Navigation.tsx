@@ -49,6 +49,16 @@ export default function Navigation() {
                 </Button>
               </a>
             </Link>
+            <Link href="/trophies">
+              <a>
+                <Button
+                  variant={isActive("/trophies") ? "default" : "ghost"}
+                  className={isActive("/trophies") ? "bg-accent text-primary" : "text-primary-foreground hover:text-accent"}
+                >
+                  Trophies
+                </Button>
+              </a>
+            </Link>
             <Link href="/contact">
               <a>
                 <Button
@@ -98,6 +108,16 @@ export default function Navigation() {
                 className="w-full justify-start"
               >
                 Squad
+              </Button>
+            </a>
+          </Link>
+          <Link href="/trophies">
+            <a>
+              <Button
+                variant={isActive("/trophies") ? "default" : "ghost"}
+                className="w-full justify-start"
+              >
+                Trophies
               </Button>
             </a>
           </Link>

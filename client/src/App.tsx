@@ -9,6 +9,7 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Squad from "./pages/Squad";
+import Trophies from "./pages/Trophies";
 import Contact from "./pages/Contact";
 
 function Router() {
@@ -20,6 +21,7 @@ function Router() {
           <Route path={"/"} component={Home} />
           <Route path={"/about"} component={About} />
           <Route path={"/squad"} component={Squad} />
+          <Route path={"/trophies"} component={Trophies} />
           <Route path={"/contact"} component={Contact} />
           <Route path={"/404"} component={NotFound} />
           {/* Final fallback route */}

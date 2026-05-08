@@ -19,19 +19,15 @@ export default function Home() {
             </p>
             <div className="flex gap-4 justify-center flex-wrap">
               <Link href="/about">
-                <a>
-                  <Button size="lg" className="bg-accent text-primary hover:bg-accent/90">
-                    Learn More
-                  </Button>
-                </a>
-              </Link>
-              <Link href="/squad">
-                <a>
-                  <Button size="lg" variant="outline" className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground/10">
-                    View Squad
-                  </Button>
-                </a>
-              </Link>
+              <Button size="lg" className="bg-accent text-primary hover:bg-accent/90">
+                Learn More
+              </Button>
+            </Link>
+            <Link href="/squad">
+              <Button size="lg" variant="outline" className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground/10">
+                View Squad
+              </Button>
+            </Link>
             </div>
           </div>
         </div>
@@ -120,11 +116,9 @@ export default function Home() {
             Stay updated with the latest news, squad information, and get in touch with us. Become part of our global fan base.
           </p>
           <Link href="/contact">
-            <a>
-              <Button size="lg" className="bg-accent text-primary hover:bg-accent/90">
-                Get in Touch
-              </Button>
-            </a>
+            <Button size="lg" className="bg-accent text-primary hover:bg-accent/90">
+              Get in Touch
+            </Button>
           </Link>
         </div>
       </section>
