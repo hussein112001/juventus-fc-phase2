@@ -122,3 +122,70 @@
 [2026-05-08T16:34:36.725Z] 12:34:36 PM [vite] (client) page reload src/components/ui/badge.tsx
 [2026-05-08T16:34:36.727Z] 12:34:36 PM [vite] (client) page reload src/components/ui/breadcrumb.tsx
 [2026-05-08T16:34:36.728Z] 12:34:36 PM [vite] (client) page reload src/components/ui/button-group.tsx
+[2026-05-08T16:34:36.728Z] 12:34:36 PM [vite] (client) page reload src/components/ui/button.tsx
+[2026-05-08T16:34:36.730Z] 12:34:36 PM [vite] (client) page reload src/components/ui/calendar.tsx
+[2026-05-08T16:34:36.731Z] 12:34:36 PM [vite] (client) page reload src/components/ui/card.tsx
+[2026-05-08T16:34:36.732Z] 12:34:36 PM [vite] (client) page reload src/components/ui/carousel.tsx
+[2026-05-08T16:34:36.733Z] 12:34:36 PM [vite] (client) page reload src/components/ui/chart.tsx
+[2026-05-08T16:34:36.734Z] 12:34:36 PM [vite] (client) page reload src/components/ui/checkbox.tsx
+[2026-05-08T16:34:36.735Z] 12:34:36 PM [vite] (client) page reload src/components/ui/collapsible.tsx
+[2026-05-08T16:34:36.736Z] 12:34:36 PM [vite] (client) page reload src/components/ui/command.tsx
+[2026-05-08T16:34:36.736Z] 12:34:36 PM [vite] (client) page reload src/components/ui/context-menu.tsx
+[2026-05-08T16:34:36.737Z] 12:34:36 PM [vite] (client) page reload src/components/ui/dialog.tsx
+[2026-05-08T16:34:36.738Z] 12:34:36 PM [vite] (client) page reload src/components/ui/drawer.tsx
+[2026-05-08T16:34:36.738Z] 12:34:36 PM [vite] (client) page reload src/components/ui/dropdown-menu.tsx
+[2026-05-08T16:34:36.739Z] 12:34:36 PM [vite] (client) page reload src/components/ui/empty.tsx
+[2026-05-08T16:34:36.742Z] 12:34:36 PM [vite] (client) page reload src/components/ui/field.tsx
+[2026-05-08T16:34:36.743Z] 12:34:36 PM [vite] (client) page reload src/components/ui/form.tsx
+[2026-05-08T16:34:36.743Z] 12:34:36 PM [vite] (client) page reload src/components/ui/hover-card.tsx
+[2026-05-08T16:34:36.744Z] 12:34:36 PM [vite] (client) page reload src/components/ui/input-group.tsx
+[2026-05-08T16:34:36.745Z] 12:34:36 PM [vite] (client) page reload src/components/ui/input-otp.tsx
+[2026-05-08T16:34:36.745Z] 12:34:36 PM [vite] (client) page reload src/components/ui/input.tsx
+[2026-05-08T16:34:36.746Z] 12:34:36 PM [vite] (client) page reload src/components/ui/item.tsx
+[2026-05-08T16:34:36.746Z] 12:34:36 PM [vite] (client) page reload src/components/ui/kbd.tsx
+[2026-05-08T16:34:36.746Z] 12:34:36 PM [vite] (client) page reload src/components/ui/label.tsx
+[2026-05-08T16:34:36.747Z] 12:34:36 PM [vite] (client) page reload src/components/ui/menubar.tsx
+[2026-05-08T16:34:36.747Z] 12:34:36 PM [vite] (client) page reload src/components/ui/navigation-menu.tsx
+[2026-05-08T16:34:36.747Z] 12:34:36 PM [vite] (client) page reload src/components/ui/pagination.tsx
+[2026-05-08T16:34:36.748Z] 12:34:36 PM [vite] (client) page reload src/components/ui/popover.tsx
+[2026-05-08T16:34:36.748Z] 12:34:36 PM [vite] (client) page reload src/components/ui/progress.tsx
+[2026-05-08T16:34:36.748Z] 12:34:36 PM [vite] (client) page reload src/components/ui/radio-group.tsx
+[2026-05-08T16:34:36.749Z] 12:34:36 PM [vite] (client) page reload src/components/ui/resizable.tsx
+[2026-05-08T16:34:36.749Z] 12:34:36 PM [vite] (client) page reload src/components/ui/scroll-area.tsx
+[2026-05-08T16:34:36.749Z] 12:34:36 PM [vite] (client) page reload src/components/ui/select.tsx
+[2026-05-08T16:34:36.750Z] 12:34:36 PM [vite] (client) page reload src/components/ui/separator.tsx
+[2026-05-08T16:34:36.750Z] 12:34:36 PM [vite] (client) page reload src/components/ui/sheet.tsx
+[2026-05-08T16:34:36.750Z] 12:34:36 PM [vite] (client) page reload src/components/ui/sidebar.tsx
+[2026-05-08T16:34:36.751Z] 12:34:36 PM [vite] (client) page reload src/components/ui/skeleton.tsx
+[2026-05-08T16:34:36.751Z] 12:34:36 PM [vite] (client) page reload src/components/ui/slider.tsx
+[2026-05-08T16:34:36.751Z] 12:34:36 PM [vite] (client) page reload src/components/ui/sonner.tsx
+[2026-05-08T16:34:36.752Z] 12:34:36 PM [vite] (client) page reload src/components/ui/spinner.tsx
+[2026-05-08T16:34:36.752Z] 12:34:36 PM [vite] (client) page reload src/components/ui/switch.tsx
+[2026-05-08T16:34:36.752Z] 12:34:36 PM [vite] (client) page reload src/components/ui/table.tsx
+[2026-05-08T16:34:36.753Z] 12:34:36 PM [vite] (client) page reload src/components/ui/tabs.tsx
+[2026-05-08T16:34:36.753Z] 12:34:36 PM [vite] (client) page reload src/components/ui/textarea.tsx
+[2026-05-08T16:34:36.753Z] 12:34:36 PM [vite] (client) page reload src/components/ui/toggle-group.tsx
+[2026-05-08T16:34:36.754Z] 12:34:36 PM [vite] (client) page reload src/components/ui/toggle.tsx
+[2026-05-08T16:34:36.754Z] 12:34:36 PM [vite] (client) page reload src/components/ui/tooltip.tsx
+[2026-05-08T16:34:36.755Z] 12:34:36 PM [vite] (client) page reload src/const.ts
+[2026-05-08T16:34:36.755Z] 12:34:36 PM [vite] (client) page reload src/contexts/ThemeContext.tsx
+[2026-05-08T16:34:36.756Z] 12:34:36 PM [vite] (client) page reload src/hooks/useComposition.ts
+[2026-05-08T16:34:36.756Z] 12:34:36 PM [vite] (client) page reload src/hooks/useMobile.tsx
+[2026-05-08T16:34:36.757Z] 12:34:36 PM [vite] (client) page reload src/hooks/usePersistFn.ts
+[2026-05-08T16:34:36.758Z] 12:34:36 PM [vite] (client) hmr update /src/index.css
+[2026-05-08T16:34:36.758Z] 12:34:36 PM [vite] (client) page reload src/lib/utils.ts
+[2026-05-08T16:34:36.758Z] 12:34:36 PM [vite] (client) page reload src/main.tsx
+[2026-05-08T16:34:36.759Z] 12:34:36 PM [vite] (client) page reload src/pages/About.tsx
+[2026-05-08T16:34:36.759Z] 12:34:36 PM [vite] (client) page reload src/pages/Contact.tsx
+[2026-05-08T16:34:36.759Z] 12:34:36 PM [vite] (client) page reload src/pages/Home.tsx
+[2026-05-08T16:34:36.760Z] 12:34:36 PM [vite] (client) page reload src/pages/NotFound.tsx
+[2026-05-08T16:34:36.760Z] 12:34:36 PM [vite] (client) page reload src/pages/Squad.tsx
+[2026-05-08T16:34:36.760Z] 12:34:36 PM [vite] (client) page reload src/pages/Trophies.tsx
+[2026-05-08T16:34:36.763Z] 12:34:36 PM [vite] server restarted.
+[2026-05-08T16:34:36.764Z] 
+[2026-05-08T16:34:36.764Z] ➜  Local:   http://localhost:5173/
+[2026-05-08T16:34:36.765Z] ➜  Network: http://169.254.0.21:5173/
+[2026-05-09T07:08:42.929Z] Dev server process group stopped
+[2026-05-09T07:08:45.960Z] Starting dev server with command: pnpm run dev
+[2026-05-09T07:08:46.681Z] ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND  No package.json (or package.yaml, or package.json5) was found in "/home/ubuntu/smart-study-planner-phase2".
+[2026-05-09T07:08:46.708Z] Dev server exited with code 1
